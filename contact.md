@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact us
+title: Contact
 ---
 
 Email: naruemon[dot]p[at]chula[dot]ac[dot]th
