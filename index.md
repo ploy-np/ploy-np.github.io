@@ -2,7 +2,7 @@
 layout: home
 ---
 
-My research interests are focused on the design and development of machine learning algorithms, including .. 
+My research interests focus on the design and development of machine learning algorithms, including .. 
 
 > Deep neural networks - one of the sexiest models at our time, 
 
