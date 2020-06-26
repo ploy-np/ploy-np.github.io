@@ -1,0 +1,17 @@
+title: Ploy Lab
+author: Ploy N. Pratanwanich
+email: naruemon.p[at]chula.ac.th
+github_username: ploylab
+description: |
+  Department of Mathematics and Computer Science
+  Faculty of Science
+  Chulalongkorn University
+  Bangkok, 10330, Thailand
+theme: minima
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
+

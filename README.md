@@ -1,2 +1,2 @@
-# ploy-np.github.io
-My personal website
+# ploylab.github.io
+Ploy Lab
